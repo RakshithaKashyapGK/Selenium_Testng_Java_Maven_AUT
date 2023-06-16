@@ -8,8 +8,9 @@ The operations done are:
 3. Creating multiple users
 4. Update User Details
 5. Delete user details
-6. Assertions
-7. Allure results
+6. Valid or Invalid user credentials using Data Provider
+7. Assertions
+8. Allure results
 
 * Steps:
 1. Create a maven project
